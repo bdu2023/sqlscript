@@ -1,0 +1,1 @@
+ALTER TABLE `handbook` ADD COLUMN `content` TEXT DEFAULT NULL;
